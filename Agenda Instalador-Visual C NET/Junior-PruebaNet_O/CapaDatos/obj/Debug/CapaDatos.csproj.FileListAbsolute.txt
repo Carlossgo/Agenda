@@ -1,0 +1,11 @@
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\CapaDatos\obj\Debug\CapaDatos.pdb

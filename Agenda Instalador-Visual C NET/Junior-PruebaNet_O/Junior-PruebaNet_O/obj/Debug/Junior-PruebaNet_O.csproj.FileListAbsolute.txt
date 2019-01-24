@@ -1,0 +1,9 @@
+c:\users\carlossg-i7asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\Junior-PruebaNet_O.exe.config
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\Junior-PruebaNet_O.exe
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\Junior-PruebaNet_O.pdb
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior-PruebaNet_O.csprojResolveAssemblyReference.cache
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior_PruebaNet_O.Agenda.resources
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior_PruebaNet_O.Properties.Resources.resources
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior-PruebaNet_O.csproj.GenerateResource.Cache
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior-PruebaNet_O.exe
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior-PruebaNet_O.pdb

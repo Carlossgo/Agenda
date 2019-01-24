@@ -1,0 +1,13 @@
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\Junior-PruebaNet_O.exe.config
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\Junior-PruebaNet_O.exe
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\Junior-PruebaNet_O.pdb
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\CapaNegocio.dll
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\CapaDatos.dll
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\CapaNegocio.pdb
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\bin\Debug\CapaDatos.pdb
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\CapaPresentacion.frmAgenda.resources
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior-PruebaNet_O.exe
+C:\Users\CarlosSG-i7Asus\documents\visual studio 2015\Projects\Junior-PruebaNet_O\Junior-PruebaNet_O\obj\Debug\Junior-PruebaNet_O.pdb
